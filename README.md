@@ -3,6 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kaadi127&label=Profile%20views&color=0e75b6&style=flat" alt="kaadi127" /> </p>
 
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=kaadi127&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kaadi127&theme=tokyonight" alt="mystreak"/>
+
 - 🌱 I’m currently learning **java**
 
 - 💬 Ask me about **java**
